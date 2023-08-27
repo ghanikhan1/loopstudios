@@ -5,5 +5,5 @@ Loop Studios Projects
 ![Screenshot](./loopstudio.png)
 
 
-[Visit My Project](https://https://loopstudios-gamma-olive.vercel.app/)
+[Visit My Project](https://https://google.com)
 
